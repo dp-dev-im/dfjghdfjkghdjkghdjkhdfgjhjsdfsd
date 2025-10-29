@@ -4,3 +4,6 @@ print('babo')
 
 
 print('hoho')
+print('hoho')
+print('hoho')
+print('hoho')
